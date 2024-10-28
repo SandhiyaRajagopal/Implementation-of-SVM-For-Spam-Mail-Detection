@@ -61,14 +61,23 @@ accuracy
 
 ## Output:
 data.head()
+
 ![image](https://github.com/user-attachments/assets/d4d9e774-6657-4d59-97c0-6f49c25dcab5)
+
 data.info()
+
 ![image](https://github.com/user-attachments/assets/5d3917c4-4f1e-4246-ba20-9aab720bd25f)
+
 data.isnull.sum()
+
 ![image](https://github.com/user-attachments/assets/2dc990f7-ff05-4a0f-a458-38ed2947a720)
+
 y_prediction value
+
 ![image](https://github.com/user-attachments/assets/70876684-9870-4814-bbb1-e8d66f8decfc)
+
 Accuracy value
+
 ![image](https://github.com/user-attachments/assets/18b26772-021b-414a-aa64-3fd069e1c39c)
 
 ## Result:
